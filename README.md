@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=505&height=44&lines=Full-Stack%20Developer;I%20build%20things%20I%20want%20to%20exist." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### >_ About Me
 
 I’m still early in my journey, which is honestly the fun part. I got into coding by building random things I wanted to exist, and that slowly turned into web apps, AI tools, and developer tools. I learn mostly by shipping projects, trying unfamiliar tools, breaking things, fixing them, and getting a little better at understanding the engineering behind what I build.
 
-😄 &nbsp;Pronouns: **he/him**
+&nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
 
@@ -66,4 +66,3 @@ I’m still early in my journey, which is honestly the fun part. I got into codi
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/harshittpanday">harshittpanday</a></i></p>
